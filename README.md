@@ -20,7 +20,6 @@
 
 I'm a passionate frontend developer with a keen eye for design and user experience. Currently focused on building responsive web applications while exploring the exciting world of AI and machine learning.
 
-- 🔭 Working on: **Internship Management System**
 - 🌱 Learning: **TensorFlow & Next.js**
 - 💡 Interests: **UI/UX Design, Machine Learning, Cloud Computing**
 

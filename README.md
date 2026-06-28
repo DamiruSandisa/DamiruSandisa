@@ -83,8 +83,8 @@ I'm a passionate frontend developer with a keen eye for design and user experien
 
 I'm always open to interesting collaborations and discussions. Feel free to reach out!
 
-- 📧 Email: [sandisa.damiru@gmail.com](mailto:sandisa.damiru@gmail.com)
-- 💼 LinkedIn: 
+- 📧 Email: [sandisa.damiru.business@gmail.com](mailto:sandisa.damiru.business@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/damiru-sandisa-a6713330b]
 - 🐦 Twitter: 
 
 <div align="center">
